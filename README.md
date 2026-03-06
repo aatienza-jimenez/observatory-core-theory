@@ -302,7 +302,7 @@ If you use or reference this work, please cite:
 
 Atienza Jiménez, A. (2026). OBSERVATORY: An Axiomatic Epistemic
 Framework for Computational Evidence — Core Theory (v0.2).
-Zenodo. https://doi.org/[DOI_TO_BE_ASSIGNED]
+Zenodo. https://doi.org/10.5281/zenodo.18892604
 
 ---
 
